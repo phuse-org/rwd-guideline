@@ -1,0 +1,18 @@
+---
+title: "Statistical analysis"
+subtitle: "Considerations when applying statistical methods on RCT and RWD"
+---
+
+
+## Motivation
+
+Why we need to look at statisical analysis regarding RCT and RWD differently, what are the consequences
+
+
+
+## Key differences between RCT and RWD
+
+
+
+
+

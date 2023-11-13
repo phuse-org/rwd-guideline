@@ -1,4 +1,7 @@
-# Contributors
+---
+title: "Contributors"
+---
+
 
 We would like to thank the following people that have contributed to the project, in alphabetical order: 
 

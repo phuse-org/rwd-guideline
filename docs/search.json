@@ -9,15 +9,43 @@
   {
     "objectID": "definitions.html",
     "href": "definitions.html",
-    "title": "Definitions",
+    "title": "2  Definitions",
     "section": "",
-    "text": "This is a list of definitions and abbreviations.\n\n\n\nAbbreviation\nDescription\n\n\n\n\nRWD\nReal-world data\n\n\nRWD\nReal-world evidence\n\n\n\n…"
+    "text": "This is a list of definitions and abbreviations.\n\n\n\nAbbreviation\nDescription\n\n\n\n\nRWD\nReal-world data\n\n\nRWE\nReal-world evidence\n\n\n\n…"
   },
   {
     "objectID": "contributors.html",
     "href": "contributors.html",
-    "title": "2  Contributors",
+    "title": "4  Contributors",
     "section": "",
     "text": "We would like to thank the following people that have contributed to the project, in alphabetical order:\nname, affliation"
+  },
+  {
+    "objectID": "stat-method.html#motivation",
+    "href": "stat-method.html#motivation",
+    "title": "3  Statistical analysis",
+    "section": "3.1 Motivation",
+    "text": "3.1 Motivation\nWhy we need to look at statisical analysis regarding RCT and RWD differently, what are the consequences"
+  },
+  {
+    "objectID": "stat-method.html#key-differences-between-rct-and-rwd",
+    "href": "stat-method.html#key-differences-between-rct-and-rwd",
+    "title": "3  Statistical analysis",
+    "section": "3.2 Key differences between RCT and RWD",
+    "text": "3.2 Key differences between RCT and RWD"
+  },
+  {
+    "objectID": "statistics.html#motivation",
+    "href": "statistics.html#motivation",
+    "title": "3  Statistical analysis",
+    "section": "3.1 Motivation",
+    "text": "3.1 Motivation\nWhy we need to look at statisical analysis regarding RCT and RWD differently, what are the consequences"
+  },
+  {
+    "objectID": "statistics.html#key-differences-between-rct-and-rwd",
+    "href": "statistics.html#key-differences-between-rct-and-rwd",
+    "title": "3  Statistical analysis",
+    "section": "3.2 Key differences between RCT and RWD",
+    "text": "3.2 Key differences between RCT and RWD"
   }
 ]
