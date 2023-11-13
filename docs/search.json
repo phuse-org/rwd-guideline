@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "RWD Guidelines for Programming and Analysis Processes",
+    "section": "",
+    "text": "Note\n\n\n\nThis is a work-in-progress\n\n\n\n1 Project scope\nThe project will bring together statistical programmers across pharma to collaborate and provide their input to create an RWE Guideline/White Paper for the industry.\n\n\n2 Project Statement\nMany pharma and biotech companies have invested resources to develop their own company-specific real-world data policies. All these fragmented efforts deserve a wider platform to unite and come up with generalised cross-industry guidelines via further development and expert input. Focus should be given on refinement and conciseness. This might have the potential to shape the industry going forward.\n\n\n3 Problem impact\nOver the last few years the prevalence of real-world data being recognised as a component of a successful drug development programme has significantly increased. Reviewers, approvers and the healthcare industry in general expect sponsors to provide evidence from these sources. The traditional clinical trial being the only method for drug development is no longer enough, and successful leveraging of these broader data sources – e.g. EHRs, registries, payer data, wearables – is now seen as integral in development programmes.\nThe proposed guideline/white paper seeks to guide statistical programmers in the approaches to take for studies where RWD is involved. It is an end-to-end resource which provides users with guidance on data sourcing, utilisation, transformation, standardisation and submission whilst educating users on the value of real-world evidence. It also emphasises how engagement and collaboration with functional stakeholders, namely data science, stats, epidemiology, DM and clinical programming can have a greater impact in those areas.\nSuccessful operation of this guideline/white paper could increase efficiency, cost-effectiveness and collaboration amongst peers and stakeholders."
+  },
+  {
+    "objectID": "definitions.html",
+    "href": "definitions.html",
+    "title": "Definitions",
+    "section": "",
+    "text": "This is a list of definitions and abbreviations.\n\n\n\nAbbreviation\nDescription\n\n\n\n\nRWD\nReal-world data\n\n\nRWD\nReal-world evidence\n\n\n\n…"
+  },
+  {
+    "objectID": "contributors.html",
+    "href": "contributors.html",
+    "title": "2  Contributors",
+    "section": "",
+    "text": "We would like to thank the following people that have contributed to the project, in alphabetical order:\nname, affliation"
+  }
+]

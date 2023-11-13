@@ -1,0 +1,11 @@
+# Definitions {.unnumbered}
+
+This is a list of definitions and abbreviations. 
+
+| **Abbreviation** | **Description** |
+| ---------------- | ----------------|
+| RWD  | Real-world data |
+| RWD  | Real-world evidence |
+
+
+... 

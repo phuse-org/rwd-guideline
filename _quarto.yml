@@ -1,0 +1,28 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  page-navigation: true
+  title: "RWD Guidelines for Programming and Analysis Processes"
+  edition: "DRAFT"
+  author: "PHUSE Working Group"
+  repo-url: https://github.com/phuse-org/rwd-guideline
+  abstract: "This whitepaper provides guidance on using RWD for Programming and Analysis Processes."
+  sidebar:
+    search: true
+    logo: resources/phuse_logo.png
+  chapters: 
+    - index.qmd
+    - definitions.qmd
+    - contributors.qmd
+
+ 
+format:
+  html:
+    theme: cosmo
+    # css: styles.css
+    toc: true
+
+
+
